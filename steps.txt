@@ -1,0 +1,8 @@
+1- install next project : 
+  npx create-next-app@latest
+
+2- shadcn/ui  : is allows you to build your own component library
+   it provides a lot of components out the box for dashboards cards tasks forms and more.
+   to install it : npx shadcn-ui@latest init
+
+3- copy and update the file tailwind.config.js and globals.css   
